@@ -1,0 +1,12 @@
+C:\Users\xhova\source\repos\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.AssemblyInfo.cs
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.AssemblyInfoInputs.cache
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.AssemblyInfo.cs
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.exe
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.deps.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.runtimeconfig.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.runtimeconfig.dev.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\bin\Debug\netcoreapp3.1\ProtorypePatter.pdb
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\ProtorypePatter\ProtorypePatter\obj\Debug\netcoreapp3.1\ProtorypePatter.pdb

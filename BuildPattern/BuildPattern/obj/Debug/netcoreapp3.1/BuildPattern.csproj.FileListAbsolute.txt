@@ -1,0 +1,22 @@
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.csprojAssemblyReference.cache
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.AssemblyInfo.cs
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.exe
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.deps.json
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.runtimeconfig.json
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.runtimeconfig.dev.json
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.dll
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.pdb
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.dll
+C:\Users\xhova\source\repos\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.pdb
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.exe
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.deps.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.runtimeconfig.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.runtimeconfig.dev.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\bin\Debug\netcoreapp3.1\BuildPattern.pdb
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.csprojAssemblyReference.cache
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.AssemblyInfoInputs.cache
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.AssemblyInfo.cs
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\BuildPattern\BuildPattern\obj\Debug\netcoreapp3.1\BuildPattern.pdb

@@ -1,0 +1,22 @@
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.exe
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.deps.json
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.runtimeconfig.json
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.runtimeconfig.dev.json
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.dll
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.pdb
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.csprojAssemblyReference.cache
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.AssemblyInfo.cs
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.dll
+C:\Users\xhova\source\repos\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.pdb
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.exe
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.deps.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.runtimeconfig.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.runtimeconfig.dev.json
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\bin\Debug\netcoreapp3.1\AbstractFactorypatter.pdb
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.csprojAssemblyReference.cache
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.AssemblyInfoInputs.cache
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.AssemblyInfo.cs
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.dll
+C:\Users\xhova\Desktop\Internship\Analysis\Report Creational Design\Creational Patterns\AbstractFactorypatter\AbstractFactorypatter\obj\Debug\netcoreapp3.1\AbstractFactorypatter.pdb
